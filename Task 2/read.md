@@ -1,6 +1,6 @@
 # **Student Garde Calculator**
 
-This is a 1<sup>st</sup> task to built a <b>Number Guessing Game</b> Java Development Internship at <b>Codesoft
+This is a 2<sup>nd</sup> task to built a <b>Number Guessing Game</b> Java Development Internship at <b>Codesoft
 </b><br>
 I constructed this project by using Java and adding GUI (Java Swing) to make it more interesting.
 
