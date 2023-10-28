@@ -11,8 +11,8 @@ I constructed this project by using Java and adding GUI (Java Swing) to make it 
 
 ## **Game Screenshots** 📷
 <p float="left">
-	<img src = "Task 1/numbergessinggame/screenshots/Capture.PNG" width="350">
-	<img src = "Task 1/numbergessinggame/screenshots/Capture1.PNG" width="200">
+	<img src = "numbergessinggame/screenshots/Capture.PNG" width="350">
+	<img src = "numbergessinggame/screenshots/Capture1.PNG" width="400">
   
 </p>
 
